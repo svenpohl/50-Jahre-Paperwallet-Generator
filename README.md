@@ -7,7 +7,7 @@ Hier ein Beispiel der Ausgabe - Datei mit WIF-Private Key. Die andere Datei ist 
 
 Benutzung auf eigene Gefahr! Das Script soll eine Inspiration für eine eigene Version sein. Der Code kann Fehler enthalten und MUSS selbst geprüft bzw. aktualisiert werden.
 
-'''
+```
 Index Datum                Bitcoin-Adresse                     WIF-Private Key                              
 ------------------------------------------------------------------------------------------------------------
 1     January 2025         1LSUesVPKGa42C6QQ3ynTUrfB7bCEQo4qc  5J9eJQVynywDFz3Yn51dZoALxmbFMVaYKnQivwrqAVncGxD9bkt
@@ -39,4 +39,4 @@ Index Datum                Bitcoin-Adresse                     WIF-Private Key
 13    January 2026         1LUbmKtSL434QcC4mrJn1281tnd9kv4CVP  5KDDy3swU9ECDRnbH3UWCRqgn76fxcTe9tEjFuYJhnKLUQaeNXg
 
 14    February 2026        17uVQQMmRNrEGHL2dcfYqVmkquVD6iKchK  5Ki7ymAexgz6QqrdBPNgqcBRqV98usKByHBbwfQgMRpW6xQ9TVY
-'''
+```
